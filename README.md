@@ -10,11 +10,6 @@ A structured collection of my Cyber Security study notes, summaries, tools, and 
 - **eWPT** – eLearnSecurity Web Application Penetration Tester  
   → [eWPT Notes](./eWPT/README.md)
 
-#### 🗂️ Upcoming Plans
-- eWAPTX - Web Application Penetration Tester eXtreme
-- eMAPT – eLearnSecurity Mobile Application Penetration Tester 
-- OSCP – Offensive Security Certified Professional
----
 
 ## 📚 Index
 
