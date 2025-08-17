@@ -1,4 +1,4 @@
-# Introduction to Assess Network Vulnerabilities
+# Introduction to Assessing Network Vulnerabilities
 
 Many organizations don’t have a well-defined security policy.  
 Others have policies but they are poorly written or no one follows them because there are no consequences built into the policy.
