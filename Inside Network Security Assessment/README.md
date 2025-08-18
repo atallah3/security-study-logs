@@ -65,3 +65,64 @@ The **network vulnerability assessment** is a tool that looks at the existing se
    Takes on an adversarial role to see what an outsider can access and control.
 
 ---
+#  NIST’s Role in Security
+
+The **National Institute of Standards and Technology (NIST)** plays a critical role in improving security across government and private sectors. NIST develops special publications and procedures that enhance information security standards and best practices.
+
+---
+
+##  GASSP (Generally Accepted System Security Principles)
+
+**NIST Special Publication 800-14** – Designed to help organizations improve their **operational and management security controls**. It forms part of a structured approach to security policy development.
+
+---
+
+##  The Role of Policies in Vulnerability Assessment
+
+> The policy framework determines the level of security in an organization.  
+> Policies set the tone and inform employees about what is and is not permissible.
+
+Security policies can be categorized and examined in multiple ways. Two well-known standards are:
+
+- **ISO 17799**
+- **NIST 800-26**
+
+---
+
+##  What Drives the Assessment?
+
+While periodic assessments are best practice, most assessments are typically triggered by:
+
+-  To show **due diligence**
+-  To **comply with laws** (state, provincial, or federal)
+-  After a **security breach**
+
+---
+![Screenshot 2025-08-18 at 8.45.26 AM](attachment:7f7a5a3c-0118-4638-80aa-55ee3bd2e073:Screenshot_2025-08-18_at_8.45.26_AM.png)
+---
+## Key Chapter Terms
+
+| **Term** | **Definition** |
+|---------|----------------|
+| **Asset** | Anything of value owned or possessed by an individual or business. |
+| **Due Care** | The standard of conduct by a reasonable and prudent person. *(“Do Correct” – action-based)* |
+| **Due Diligence** | Execution of due care over time. *(“Do Detect” – proactive and ongoing)* |
+| **Firewall** | A hardware/software security system protecting networks from external threats. |
+| **GASSP** | A NIST 800-14 publication to improve operational and management controls. |
+| **Gold Standard** | Best practices and procedures widely accepted as the most effective. |
+| **ITSEC** | European standard for evaluating confidentiality, integrity, and availability. |
+| **ISO 17799** | A leading security management standard divided into 10 key sections. |
+| **Red Team** | Ethical hackers conducting penetration testing to find vulnerabilities. |
+| **Risk** | Exposure or potential for loss or damage to IT assets. |
+| **Risk Acceptance** | Informed decision to accept the consequences of a risk. |
+| **Risk Assessment** | Evaluating potential losses/damages to IT and data assets. |
+| **Risk Avoidance** | Taking steps to remove the risk entirely. |
+| **Risk Mitigation** | Reducing the effect or likelihood of a risk. |
+| **Risk Transference** | Shifting responsibility of the risk to a third party (e.g., insurance). |
+| **TCSEC** | U.S. DoD standard ("Orange Book") for evaluating standalone systems based on confidentiality (Classes A–D). |
+| **Uber Hacker** | Highly skilled and dedicated computer hacker. |
+
+---
+---
+
+
