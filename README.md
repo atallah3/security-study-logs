@@ -1,5 +1,5 @@
 # security-study-logs
-A structured collection of my Cyber Security study notes, summaries, tools, and resources. Covering topics like web application security, Risk Assessment, and more — organized for learning and future reference.
+A structured collection of my Cyber Security study notes, summaries, tools, and resources. Covering topics like Web Application Security, Risk Assessment, and more — organized for learning and future reference.
 ---
 ---
 ##  Index
