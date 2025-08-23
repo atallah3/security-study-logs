@@ -14,6 +14,6 @@ A structured collection of my Cyber Security study notes, summaries, tools, and 
 ## 📚 Index
 
 - [Web App Security](./Web_App_Security)
-- [Risk Assessment](./Risk Assessment)
+- [Risk Assessment](./Risk_Assessment)
 - [Network Pentesting (soon)]()
 - [Secure Coding (soon)]()
