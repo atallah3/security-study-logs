@@ -7,12 +7,6 @@ Others have policies but they are poorly written or no one follows them because 
 
 ---
 
-## Risk Assessment Process
-
-![Risk Assessment Process](Screenshot_2025-08-17_at_6.26.48_AM.png)
-
----
-
 ## Process for Assessing Risk
 
 1. **Risk Analysis** should be performed to establish the security state of the system.  
@@ -97,8 +91,6 @@ While periodic assessments are best practice, most assessments are typically tri
 -  To **comply with laws** (state, provincial, or federal)
 -  After a **security breach**
 
----
-![Screenshot 2025-08-18 at 8.45.26 AM](attachment:7f7a5a3c-0118-4638-80aa-55ee3bd2e073:Screenshot_2025-08-18_at_8.45.26_AM.png)
 ---
 ## Key Chapter Terms
 
