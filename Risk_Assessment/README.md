@@ -7,7 +7,7 @@ This repository organizes core concepts, frameworks, processes, and practical ap
 
 ##  Books
 
-- [**Inside Network Security Assessment**](./[Inside_Network_Security_Assessment)
+- [**Inside Network Security Assessment**](./Risk_Assessment/Inside_Network_Security_Assessment)
   A comprehensive guide to assessing network security risks, vulnerabilities, and mitigation strategies.
 
 ---
