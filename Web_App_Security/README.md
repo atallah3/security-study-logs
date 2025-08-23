@@ -1,4 +1,4 @@
-## 🕸️ Web App Security
+##  Web App Security
 
 This section contains foundational and advanced concepts in web application security. It covers general principles, practical vulnerabilities, and overlaps with common certifications like eWPT and eWPTX.
 
