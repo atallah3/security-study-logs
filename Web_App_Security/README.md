@@ -13,4 +13,4 @@ This section contains foundational and advanced concepts in web application secu
 
 
 
-[⬅️ Back to Main Study Logs](../README.md)
+[⬅️ Back to Main Study Logs](../)
