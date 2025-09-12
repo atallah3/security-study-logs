@@ -9,7 +9,7 @@ This section contains foundational and advanced concepts in web application secu
 
 ## 🧾 Web Certifications
 - **eWPT** – eLearnSecurity Web Application Penetration Tester  
-  → [View eWPT Notes uncompleted](../README.md) 
+  → [View eWPT Notes uncompleted]() 
 
 
 
