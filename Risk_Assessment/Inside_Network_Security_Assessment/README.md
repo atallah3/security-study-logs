@@ -115,6 +115,7 @@ While periodic assessments are best practice, most assessments are typically tri
 | **Uber Hacker** | Highly skilled and dedicated computer hacker. |
 
 ---
+[➡️ Next Chapter](/Risk_Assessment/Inside_Network_Security_Assessment/Foundation_and_Principles_of_Security)
 ---
 
 
