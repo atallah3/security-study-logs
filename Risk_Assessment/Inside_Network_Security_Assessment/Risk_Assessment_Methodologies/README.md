@@ -205,22 +205,24 @@ Every organization is different in how it protects the **confidentiality, integr
 
 ## **Chapter Key Terms**
 
-- **Annualized Loss Expectancy (ALE):** The expected yearly financial loss from a threat.  
-  *Formula: ALE = SLE × ARO*
+| **Term** | **Definition** |
+| --- | --- |
+| **Annualized Loss Expectancy (ALE)** | The expected yearly financial loss from a threat. **Formula:** `ALE = SLE × ARO` |
+| **Annualized Rate of Occurrence (ARO)** | Estimated frequency of a threat per year. *Example:* `0.25 = once every 4 years` |
+| **Asset Value (AV)** | Dollar value of an asset (hardware, software, data, contracts, etc.). Data value often exceeds hardware/software cost. |
+| **Data Classification Standard** | Defines how data is categorized (e.g., public, confidential, secret). Sets minimum acceptable risk for each data type. |
+| **Defense-in-Depth** | Layered security approach (people, processes, technologies) to avoid a single point of failure. |
+| **End User Licensing Agreement (EULA)** | Software license that protects vendors from liability (e.g., bugs, flaws) and holds users responsible for legal usage. |
+| **Exposure Factor (EF)** | Percentage of asset value lost if a specific threat is realized. |
+| **Qualitative Risk Assessment** | Scenario-based evaluation of threats by impact/severity (Critical, High, Medium, Low). |
+| **Quantitative Risk Assessment** | Math/dollar-based evaluation using AV, EF, SLE, ARO, ALE to measure financial threat impact. |
+| **Risk Potential** | The likelihood that a threat/vulnerability will be exploited. |
+| **Security Breach / Incident** | Actual exploitation of a threat or vulnerability by an attacker. |
+| **Security Controls** | Policies, standards, procedures for managing security. |
+| **Security Countermeasure** | Specific technical tools (hardware/software) enforcing security (e.g., firewalls, encryption). |
+| **Single Loss Expectancy (SLE)** | Dollar value of a single incident/loss for an asset. **Formula:** `SLE = AV × EF` |
+| **Software Bugs/Flaws** | Coding/design errors that introduce vulnerabilities. |
 
-- **Annualized Rate of Occurrence (ARO):** The estimated frequency of a threat per year (e.g., 0.25 = once every 4 years).
-- **Asset Value (AV):** Dollar value of an asset (hardware, software, data, contracts, etc.). Data value often exceeds just hardware/software cost.
-- **Data Classification Standard:** Defines how data is categorized (e.g., public, confidential, secret). Determines the minimum acceptable risk for each data type.
-- **Defense-in-Depth:** A **layered security approach** (people, processes, and technologies) to ensure no single point of failure.
-- **End User Licensing Agreement (EULA):** Software license agreement protecting vendors from liability (e.g., bugs, flaws) and holding buyers responsible for legal use.
-- **Exposure Factor (EF):** Percentage of asset value lost if a specific threat is realized.
-- **Qualitative Risk Assessment: Scenario-based**; evaluates threats by ranking impact/severity (Critical, High, Medium, Low).
-- **Quantitative Risk Assessment: Mathematical, dollar-based**; calculates AV, EF, SLE, ARO, ALE to measure financial impact of threats.
-- **Risk Potential:** The likelihood that a threat/vulnerability will be exploited.
-- **Security Breach / Security Incident:** Actual exploitation of a threat or vulnerability by an attacker.
-- **Security Controls:** Policies, standards, and procedures that define how security is managed.
-- **Security Countermeasure:** Specific **technical solutions** (hardware/software) that enforce security (e.g., firewalls, encryption, antivirus).
-- **Single Loss Expectancy (SLE):** Dollar value of a single incident/loss for an asset.  
-  *Formula: SLE = AV × EF*
-
-- **Software Bugs/Flaws:** Coding/design errors that introduce vulnerabilities.
+---
+[➡️ Next Chapter](/Risk_Assessment/Inside_Network_Security_Assessment/Scoping_The_Project)
+---
