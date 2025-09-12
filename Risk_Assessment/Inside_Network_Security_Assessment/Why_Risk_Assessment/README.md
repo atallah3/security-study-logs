@@ -332,3 +332,7 @@ Security as a process involves **three key elements**:
 | Vulnerability | Weakness in IT infrastructure that can be exploited by a threat. |
 | Vulnerability Assessment | Systematic evaluation of IT weaknesses and how to mitigate them. |
 | Vulnerability Management | Overall responsibility for managing and mitigating vulnerabilities across IT infrastructure. |
+
+---
+[➡️ Next Chapter](/Risk_Assessment/Inside_Network_Security_Assessment/Risk_Assessment_Methodologies)
+---
