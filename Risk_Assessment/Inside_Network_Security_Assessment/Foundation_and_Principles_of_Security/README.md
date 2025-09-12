@@ -226,3 +226,7 @@ These three functions form the foundation of enforcing security policies, contro
 | **RBAC (Role-Based Access Control)** | Access model where permissions are assigned to roles, not individuals. |
 | **Social Engineering** | Tricking people into revealing information or breaking security. |
 | **TCSEC (Trusted Computer Security Evaluation Criteria)** | Standards for rating system security; also called the **Rainbow Series**. |
+
+---
+[➡️ Next Chapter](/Risk_Assessment/Inside_Network_Security_Assessment/Why_Risk_Assessment)
+---
