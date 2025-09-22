@@ -92,7 +92,7 @@ While periodic assessments are best practice, most assessments are typically tri
 -  After a **security breach**
 
 ---
-## Key Chapter Terms
+## Chapter Key Terms
 
 | **Term** | **Definition** |
 |---------|----------------|
