@@ -303,3 +303,7 @@ To manage all documents, use a **tracking system** noting request date, review d
 | **Qualitative Assessment** | Risk analysis using descriptive scales (low/medium/high). |
 | **Scope Creep** | Uncontrolled expansion of project scope → delays & cost overruns. |
 | **Vulnerability** | Weakness in software, hardware, or people that attackers can exploit. |
+
+---
+[➡️ Next Chapter](/Risk_Assessment/Inside_Network_Security_Assessment/Understanding_The_Attacker)
+---
