@@ -4,7 +4,7 @@
 
   ## Index
 - [**Networking**](./Networking)
-- [**Operating Systems**](./Operating_Systems)
+- [**Operating System**](./Operating_System)
 - [**OOP**](./OOP)
 
 
