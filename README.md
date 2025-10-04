@@ -3,7 +3,7 @@ A structured collection of my Cyber Security study notes, summaries, tools, and 
 ---
 ---
 ##  Index
-
+- [Basics](./Basics)
 - [Web App Security](./Web_App_Security)
 - [Risk Assessment](./Risk_Assessment)
 ---
