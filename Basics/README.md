@@ -1,5 +1,5 @@
 # Basics
-  A structured collection of my study notes, summaries, tools, and resources — covering Networking, Linux, Object-Oriented Programming (OOP), and HTML/CSS. Organized for learning, quick revision, and future reference.
+  A structured collection of my study notes, summaries, tools, and resources — covering Basic Concepts. Organized for learning, quick revision, and future reference.
 ---
 
   ## Index
